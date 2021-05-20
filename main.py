@@ -1,6 +1,8 @@
+import os
 import cv2
 import dlib
 from matplotlib import pyplot as plt
+
 
 
 def get_face_rects(url):
@@ -25,5 +27,26 @@ def get_face_rects(url):
 	    face_coordinates.append(((x1, y1), (x2, y2)))
 	print("Detected " + str(len(rects)) + " faces")
 	return face_coordinates
+
+
 	
-print(get_face_rects("data/maske.jpg"))
+def get_image_urls():
+	filenames = []
+	os.chdir("data")
+	for root, directories, files in os.walk("."):
+		for filename in files: 
+			if "jpg" in filename or "png" in filename or "jpeg" in filename:
+				filenames.append("data/"+filename)
+	return filenames
+
+def classify_images():
+	classifications = {}
+	filenames = get_image_urls()
+	for filename in filenames:
+		print(filename)
+		faces = get_face_rects(filename)
+		print(len(faces))
+	return classifications
+
+classify_images()
+
