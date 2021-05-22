@@ -23,5 +23,4 @@ def get_face_rects(url):
 	    y2 = rect.rect.bottom()
 	    # Rectangle around the face
 	    face_coordinates.append(((x1, y1), (x2, y2)))
-	print("Detected " + str(len(rects)) + " faces")
 	return face_coordinates
