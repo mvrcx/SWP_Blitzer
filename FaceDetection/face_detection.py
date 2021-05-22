@@ -25,5 +25,3 @@ def get_face_rects(url):
 	    face_coordinates.append(((x1, y1), (x2, y2)))
 	print("Detected " + str(len(rects)) + " faces")
 	return face_coordinates
-	
-print(get_face_rects("data/maske.jpg"))
