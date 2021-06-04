@@ -20,25 +20,25 @@ In order to run our code, please ensure that you have a Python version greater o
 
 ### Setup
 
-1. We start off by installing pip which is a package manager. Open your terminal and run the following command:
+:one: We start off by installing pip which is a package manager. Open your terminal and run the following command:
 
   `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
   
   `python3 get-pip.py`
   
-1. Install the dlib library (todo: explanation)
+:two: Install the dlib library (todo: explanation)
   
   `pip install dlib`
   
-1. Install opencv (todo: explanation)
+3️⃣ Install opencv (todo: explanation)
   
   `pip install opencv-python`
   
-1. Install the mathplotlib (todo: explanation)
+:four: Install the mathplotlib (todo: explanation)
   
   `pip install matplotlib`
 
-1. Clone this repository (or use SSH) and move it into the repo root.
+:five: Clone this repository (or use SSH) and move it into the repo root.
 
 	git clone https://github.com/mvrcx/SWP_Blitzer.git
 
