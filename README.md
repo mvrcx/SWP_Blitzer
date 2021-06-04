@@ -1,5 +1,5 @@
 # Supervised and unsupervised machine learning - Summer Term 2021
-This repository contains all *public* material needed to reproduce our task in the course [Supervised and unsupervised machine learning in the science of behaviour](https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html){:target="_blank"} of the research group [Dahlem Center for Machine Learning and Robotics][2] at Freie Universität Berlin.
+This repository contains all *public* material needed to reproduce our task in the course [Supervised and unsupervised machine learning in the science of behaviour](https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html) of the research group [Dahlem Center for Machine Learning and Robotics][2] at Freie Universität Berlin.
 
 
 ## First things first
@@ -44,9 +44,8 @@ In order to run our code, please ensure that you have a Python version greater o
 
 ## Troubleshooting
 
-* Problems when installing `poetry`? When installing `poetry` something goes wrong. It's not automatically in your path, so if you run `poetry --version` nothing happens. If you use `zsh` or `oh-my-zsh` then you need to add the following line to your `.zshrc` file `export PATH="$HOME/.poetry/bin:$PATH`.
-
-* Trouble with previewing notebooks directly in GitHub? --\> https://nbviewer.jupyter.org/
+* coming
+* soon
 
 
 [1]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html
