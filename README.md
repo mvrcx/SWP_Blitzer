@@ -22,21 +22,21 @@ In order to run our code, please ensure that you have a Python version greater o
 
 :one: We start off by installing pip which is a package manager. Open your terminal and run the following command:
 
-  `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+  	curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
   
-  `python3 get-pip.py`
+  	python3 get-pip.py
   
 :two: Install the dlib library (todo: explanation)
   
-  `pip install dlib`
+ 	pip install dlib
   
 3️⃣ Install opencv (todo: explanation)
   
-  `pip install opencv-python`
+  	pip install opencv-python
   
 :four: Install the mathplotlib (todo: explanation)
   
-  `pip install matplotlib`
+	pip install matplotlib
 
 :five: Clone this repository (or use SSH) and move it into the repo root.
 
