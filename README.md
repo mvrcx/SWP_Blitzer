@@ -1,7 +1,6 @@
 # Supervised and unsupervised machine learning - Summer Term 2021
-This repository contains all *public* material needed to reproduce our task in the course [Supervised and unsupervised machine learning in the science of behaviour][1] of the research group [Berlin BioRobotics Lab][2] at Freie Universität Berlin.
+This repository contains all *public* material needed to reproduce our task in the course [Supervised and unsupervised machine learning in the science of behaviour][1] of the research group [Dahlem Center for Machine Learning and Robotics][2] at Freie Universität Berlin.
 
-THIS IS A TUTORIAL FOR UNIX/macOS
 
 ## First things first
 1. The repository (code section) contains everything related to the programming assignments we will do throughout the course.
@@ -52,8 +51,8 @@ In order to run our code, please ensure that you have a Python version greater o
 ---- 
 `[1]` https://mungingdata.com/python/jupyter-workflow-poetry-pandas/, accessed: 2020-10-28
 
-[1]:	https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/winter_term_2020_21/course_human_centered_data_science.html
-[2]:	https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html
+[1]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html
+[2]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html
 [3]:	https://github.com/FUB-HCC/hcds-winter-2020/wiki
 [4]:	https://python-poetry.org/docs/
 [5]:	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
