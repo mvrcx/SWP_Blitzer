@@ -1,5 +1,5 @@
 # Supervised and unsupervised machine learning - Summer Term 2021
-This repository contains all *public* material needed to reproduce our task in the course <a href="www.google.de" target="_blank">Supervised and unsupervised machine learning in the science of behaviour</a>[1] of the research group [Dahlem Center for Machine Learning and Robotics][2] at Freie Universität Berlin.
+This repository contains all *public* material needed to reproduce our task in the course <a href="www.google.de" target="_blank">Supervised and unsupervised machine learning in the science of behaviour</a> of the research group [Dahlem Center for Machine Learning and Robotics][2] at Freie Universität Berlin.
 
 
 ## First things first
