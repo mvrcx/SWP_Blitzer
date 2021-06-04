@@ -3,7 +3,7 @@ This repository contains all *public* material needed to reproduce our task in t
 
 
 ## First things first
-1. The repository (code section) contains everything related to the programming assignments we will do throughout the course.
+1. The code section of this repository contains everything related to the programming assignments we will do throughout the course.
 1. All other information (data, assignment instructions, etc.) you find in the :arrow\_right: [wiki][3]:arrow\_left:.
 1. Any private data will not be published and is running on our own computers as soon as we retrieve the data. 
 1. You can clone the code repository in order to reproduce our solutions or to test/run this code.
@@ -48,8 +48,6 @@ In order to run our code, please ensure that you have a Python version greater o
 
 * Trouble with previewing notebooks directly in GitHub? --\> https://nbviewer.jupyter.org/
 
----- 
-`[1]` https://mungingdata.com/python/jupyter-workflow-poetry-pandas/, accessed: 2020-10-28
 
 [1]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html
 [2]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html
