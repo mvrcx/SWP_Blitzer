@@ -1,3 +1,5 @@
+# For detailed documentation, see [WIKI][3]! 
+
 # Supervised and unsupervised machine learning - Summer Term 2021
 This repository contains all *public* material needed to reproduce our task in the course [Supervised and unsupervised machine learning in the science of behaviour](https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html) of the research group [Dahlem Center for Machine Learning and Robotics][2] at Freie Universität Berlin.
 
