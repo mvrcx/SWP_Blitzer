@@ -20,28 +20,28 @@ In order to run our code, please ensure that you have a Python version greater o
 
 ### Setup
 
-1. We start off by installing pip which is a package manager. Open your terminal and run
+1. We start off by installing pip which is a package manager. Open your terminal and run the following command:
 
   `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
   
   `python3 get-pip.py`
+  
+1. Install the dlib library (todo: explanation)
+  
+  `pip install dlib`
+  
+1. Install opencv (todo: explanation)
+  
+  `pip install opencv-python`
+  
+1. Install the mathplotlib (todo: explanation)
+  
+  `pip install matplotlib`
 
 1. Clone this repository (or use SSH) and move it into the repo root.
 
-	git clone https://github.com/FUB-HCC/hcds-winter-2020.git
-	cd hcds-winter-2020
+	git clone https://github.com/mvrcx/SWP_Blitzer.git
 
-1. Install the dependencies in the repo root.
-
-	poetry install
-
-1. Create a subshell within the virtual environment by running:
-
-	poetry shell
-
-1. Open the project with Jupyter in your browser.
-
-	jupyter notebook
 
 ## Troubleshooting
 
