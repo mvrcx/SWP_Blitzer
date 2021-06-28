@@ -50,8 +50,8 @@ def classify_images():
 		print("\r"+str(int(filenames.index(filename)/len(filenames)*100))+"%", end="")
 		os.chdir("FaceDetection")
 		faces = fd.get_face_rects("../"+filename)
-		landmark_grayscales = ld.get_gray_scale_of_landmarks_for("../"+filename, faces)
-		print(fd.is_covered(landmark_grayscales[0]))
+		#landmark_grayscales = ld.get_gray_scale_of_landmarks_for("../"+filename, faces)
+		
 		# Classifiing the image 
 		if len(faces) == 0:
 			classifications[filename] = 0     
