@@ -52,6 +52,6 @@ In order to run our code, please ensure that you have a [Python](https://www.pyt
 
 [1]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html
 [2]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html
-[3]:	https://github.com/mvrcx/SWP_Blitzer/wiki
+[3]:	https://github.com/mvrcx/SWP_Blitzer/wiki/Wiki-of-this-software-project
 [4]:	https://python-poetry.org/docs/
 [5]:	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
