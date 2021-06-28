@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="TuffFile.xsl"?>
+<tuff version="24" xsi:schemaLocation="TuffFile.xsd" xmlns="http://xsd.conversion.tuffviewer.poliscan.vitronic.com/TuffFileV24" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <session>
+    <index>2106230900</index>
+    <dateTime>2021-06-23T09:00:50.067+02:00</dateTime>
+    <systemName>PS-959847</systemName>
+    <case>
+      <index>1</index>
+      <dateTime>2021-06-23T09:01:11.943+02:00</dateTime>
+      <location>
+        <field index="0">kallinchen</field>
+        <field index="1">Strasse x</field>
+        <field index="2">23062021</field>
+      </location>
+      <organisation>Der Polizeipraesident in Berlin</organisation>
+      <witness index="0">TSM</witness>
+      <vehicle>
+        <type>car</type>
+        <direction>approaching</direction>
+        <index>1</index>
+        <detectionRange>
+          <positionVeryFirstMeasurement time="2021-06-23T07:00:50.067+00:00" unit="m" x="43.87" y1="2.61" y2="3.21"/>
+          <positionVeryLastMeasurement time="2021-06-23T07:00:50.067+00:00" unit="m" x="8.46" y1="1.64" y2="3.02"/>
+        </detectionRange>
+      </vehicle>
+      <causeSpeeding>
+        <limit lane="1" vehicleType="car" unit="km/h">30</limit>
+        <limit lane="1" vehicleType="lorry" unit="km/h">30</limit>
+        <measuredSpeed unit="km/h">54</measuredSpeed>
+        <triggerSpeed lane="1" vehicleType="car" unit="km/h">30</triggerSpeed>
+        <specLowerLimit unit="km/h">10</specLowerLimit>
+        <specUpperLimit unit="km/h">320</specUpperLimit>
+        <measuringRange>
+          <positionFirstMeasurement time="2021-06-23T07:00:50.067+00:00" unit="m" x="50.00"/>
+          <positionLastMeasurement time="2021-06-23T07:00:50.067+00:00" unit="m" x="20.00"/>
+          <numberOfMeasurements>724</numberOfMeasurements>
+        </measuringRange>
+      </causeSpeeding>
+      <image index="1" targetDesc="r">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_r.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <overlay>
+          <line x0="1052" y0="1234" x1="1387" y1="1234"/>
+          <line x0="1387" y0="1234" x1="1542" y1="1561"/>
+          <line x0="1542" y0="1561" x1="1050" y1="1569"/>
+          <line x0="1050" y0="1569" x1="1052" y1="1234"/>
+          <line x0="1224" y0="1247" x1="1385" y1="1247"/>
+        </overlay>
+        <infoBarHeightTop>108</infoBarHeightTop>
+        <infoBarHeightBottom>108</infoBarHeightBottom>
+        <overlayArea>
+          <x0>804</x0>
+          <y0>1075</y0>
+          <x1>1788</x1>
+          <y1>1577</y1>
+        </overlayArea>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="1018"/>
+          <topRight x="1383" y="1022"/>
+          <bottomRight x="1484" y="1176"/>
+          <bottomLeft x="937" y="1175"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="lp_r">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_lp_r.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="910"/>
+          <topRight x="1383" y="914"/>
+          <bottomRight x="1484" y="1068"/>
+          <bottomLeft x="937" y="1067"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="s">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_s.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <overlay>
+          <line x0="1052" y0="1234" x1="1387" y1="1234"/>
+          <line x0="1387" y0="1234" x1="1542" y1="1561"/>
+          <line x0="1542" y0="1561" x1="1050" y1="1569"/>
+          <line x0="1050" y0="1569" x1="1052" y1="1234"/>
+          <line x0="1224" y0="1247" x1="1385" y1="1247"/>
+        </overlay>
+        <infoBarHeightTop>108</infoBarHeightTop>
+        <infoBarHeightBottom>108</infoBarHeightBottom>
+        <overlayArea>
+          <x0>804</x0>
+          <y0>1075</y0>
+          <x1>1788</x1>
+          <y1>1577</y1>
+        </overlayArea>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="1018"/>
+          <topRight x="1383" y="1022"/>
+          <bottomRight x="1484" y="1176"/>
+          <bottomLeft x="937" y="1175"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="lp_s">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_lp_s.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="910"/>
+          <topRight x="1383" y="914"/>
+          <bottomRight x="1484" y="1068"/>
+          <bottomLeft x="937" y="1067"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="l">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_l.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <overlay>
+          <line x0="1052" y0="1234" x1="1387" y1="1234"/>
+          <line x0="1387" y0="1234" x1="1542" y1="1561"/>
+          <line x0="1542" y0="1561" x1="1050" y1="1569"/>
+          <line x0="1050" y0="1569" x1="1052" y1="1234"/>
+          <line x0="1224" y0="1247" x1="1385" y1="1247"/>
+        </overlay>
+        <infoBarHeightTop>108</infoBarHeightTop>
+        <infoBarHeightBottom>108</infoBarHeightBottom>
+        <overlayArea>
+          <x0>804</x0>
+          <y0>1075</y0>
+          <x1>1788</x1>
+          <y1>1577</y1>
+        </overlayArea>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="1018"/>
+          <topRight x="1383" y="1022"/>
+          <bottomRight x="1484" y="1176"/>
+          <bottomLeft x="937" y="1175"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="lp_l">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_lp_l.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="910"/>
+          <topRight x="1383" y="914"/>
+          <bottomRight x="1484" y="1068"/>
+          <bottomLeft x="937" y="1067"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="h">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_h.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <overlay>
+          <line x0="1052" y0="1234" x1="1387" y1="1234"/>
+          <line x0="1387" y0="1234" x1="1542" y1="1561"/>
+          <line x0="1542" y0="1561" x1="1050" y1="1569"/>
+          <line x0="1050" y0="1569" x1="1052" y1="1234"/>
+          <line x0="1224" y0="1247" x1="1385" y1="1247"/>
+        </overlay>
+        <infoBarHeightTop>108</infoBarHeightTop>
+        <infoBarHeightBottom>108</infoBarHeightBottom>
+        <overlayArea>
+          <x0>804</x0>
+          <y0>1075</y0>
+          <x1>1788</x1>
+          <y1>1577</y1>
+        </overlayArea>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="1018"/>
+          <topRight x="1383" y="1022"/>
+          <bottomRight x="1484" y="1176"/>
+          <bottomLeft x="937" y="1175"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="lp_h">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_lp_h.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="910"/>
+          <topRight x="1383" y="914"/>
+          <bottomRight x="1484" y="1068"/>
+          <bottomLeft x="937" y="1067"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="c">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_c.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <overlay>
+          <line x0="1052" y0="1234" x1="1387" y1="1234"/>
+          <line x0="1387" y0="1234" x1="1542" y1="1561"/>
+          <line x0="1542" y0="1561" x1="1050" y1="1569"/>
+          <line x0="1050" y0="1569" x1="1052" y1="1234"/>
+          <line x0="1224" y0="1247" x1="1385" y1="1247"/>
+        </overlay>
+        <infoBarHeightTop>108</infoBarHeightTop>
+        <infoBarHeightBottom>108</infoBarHeightBottom>
+        <overlayArea>
+          <x0>804</x0>
+          <y0>1075</y0>
+          <x1>1788</x1>
+          <y1>1577</y1>
+        </overlayArea>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="1018"/>
+          <topRight x="1383" y="1022"/>
+          <bottomRight x="1484" y="1176"/>
+          <bottomLeft x="937" y="1175"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="lp_c">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_lp_c.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="910"/>
+          <topRight x="1383" y="914"/>
+          <bottomRight x="1484" y="1068"/>
+          <bottomLeft x="937" y="1067"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="a">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_a.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <overlay>
+          <line x0="1052" y0="1234" x1="1387" y1="1234"/>
+          <line x0="1387" y0="1234" x1="1542" y1="1561"/>
+          <line x0="1542" y0="1561" x1="1050" y1="1569"/>
+          <line x0="1050" y0="1569" x1="1052" y1="1234"/>
+          <line x0="1224" y0="1247" x1="1385" y1="1247"/>
+        </overlay>
+        <infoBarHeightTop>108</infoBarHeightTop>
+        <infoBarHeightBottom>108</infoBarHeightBottom>
+        <overlayArea>
+          <x0>804</x0>
+          <y0>1075</y0>
+          <x1>1788</x1>
+          <y1>1577</y1>
+        </overlayArea>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="1018"/>
+          <topRight x="1383" y="1022"/>
+          <bottomRight x="1484" y="1176"/>
+          <bottomLeft x="937" y="1175"/>
+        </overlayArea2>
+      </image>
+      <image index="1" targetDesc="lp_a">
+        <fileName>PS-959847-Der_Polizeip-2106230900_00001_0001_01-1_lp_a.tif</fileName>
+        <name>mvXD126</name>
+        <dateTime>2021-06-23T09:01:12.175+02:00</dateTime>
+        <acquisitionTrigger clockID="GPS">0.000</acquisitionTrigger>
+        <cameraIndex>1</cameraIndex>
+        <lens>C25mm</lens>
+        <vehiclePosition time="2021-06-23T09:01:12.175+02:00" unit="m" x="16.14" y1="1.74" y2="3.27"/>
+        <overlayArea2>
+          <topLeft x="959" y="910"/>
+          <topRight x="1383" y="914"/>
+          <bottomRight x="1484" y="1068"/>
+          <bottomLeft x="937" y="1067"/>
+        </overlayArea2>
+      </image>
+      <gaugingValidityBegin>2021-03-11T09:43:12.000+00:00</gaugingValidityBegin>
+      <gaugingValidityEnd>2022-12-31T23:59:59.000+00:00</gaugingValidityEnd>
+      <systemSpeedMeasuringRange begin="20" end="50" unit="m"/>
+    </case>
+  </session>
+</tuff>
