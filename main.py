@@ -7,8 +7,8 @@ import FaceDetection.landmark_detection as ld
 
 # Constants
 
-raw_data = "raw_data"								# directory with images that need to be classified
-clean_data = "clean_data"							# directory that contains the classifications
+raw_data = "input_files"								# directory with images that need to be classified
+clean_data = "output_files"							# directory that contains the classifications
 accepted_image_formats = ["jpg", "png", "jpeg"]		# file formats that are accepted and loaded as images
 
 
@@ -81,9 +81,9 @@ def move_to_folders(classifications):
 	# iterates through all classifications and moves the classified images to the corresponding directories
 	for classification in classifications:
 		if classifications[classification] == 0:
-			os.replace(classification, clean_data+"/red/"+classification[9:])
+			os.replace(classification, clean_data+"/red/"+classification[len(raw_data):])
 		else:
-			os.replace(classification, clean_data+"/green/"+classification[9:])
+			os.replace(classification, clean_data+"/green/"+classification[len(raw_data):])
 
 
 
