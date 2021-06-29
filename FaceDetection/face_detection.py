@@ -26,7 +26,7 @@ def get_face_rects(url):
 	
 	# Rectangles that contain faces
 	rects = detector(gray, 1)
-	
+
 	# Iterate over face rectangles
 	for (i, rect) in enumerate(rects):
 	    x1 = rect.rect.left()
