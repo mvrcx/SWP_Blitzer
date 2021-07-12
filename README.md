@@ -70,8 +70,9 @@ Dependencies are all of our software components required by this project in orde
 
 ## Troubleshooting
 
-* coming
-* soon
+* Problems when installing `poetry`? When installing `poetry` something goes wrong. It's not automatically in your path, so if you run `poetry --version` nothing happens. If you use `zsh` or `oh-my-zsh` then you need to add the following line to your `.zshrc` file `export PATH="$HOME/.poetry/bin:$PATH`.
+
+* Trouble with previewing notebooks directly in GitHub? --\> https://nbviewer.jupyter.org/
 
 
 [1]:	https://www.mi.fu-berlin.de/inf/groups/ag-ki/Teaching/SS19/SWP-Ueberwachtes-Lernen/index.html
