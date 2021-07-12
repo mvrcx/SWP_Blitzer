@@ -62,8 +62,12 @@ Dependencies are all of our software components required by this project in orde
 :eight: Install remaining dependencies using [Poetry](https://python-poetry.org) which is used for Python packaging and dependency management.
 
 	poetry install
+	
+:nine: Create a subshell within the virtual environment by running:
 
-:nine: You are ready to run the algorithm by the following command. Check out the [wiki][3] to see the outcome and explenations on that!
+	poetry shell
+
+:fireworks: You are ready to run the algorithm by the following command. Check out the [wiki][3] to see the outcome and explenations on that!
 
 	TODO!!
 
@@ -71,16 +75,15 @@ Dependencies are all of our software components required by this project in orde
 
 We prepared our future improvements in so called [Jupyter Notebooks](https://jupyter.org/index.html). 
 
-:ten: Install Jupyter Notebook
+:oneInstall Jupyter Notebook
 
 	pip install notebook
 
-:eleven: Run Jupyter Notebook
+:two: Run Jupyter Notebook
 
 	jupyter notebook
 
-This will open your jupyter notebook workspace in the respective directory. Navigate to the wanted `.ipnb`
-	
+This will open your jupyter notebook workspace in the respective directory. Navigate to the wanted `.ipynb` file and run it.
 
 
 ## Troubleshooting
