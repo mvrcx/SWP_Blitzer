@@ -57,7 +57,7 @@ Installing all necessary dependencies will guarantee a working enviroment throug
 
 	poetry install
 
-:nine: You are ready to run the algorithm by the following command
+:nine: You are ready to run the algorithm by the following command. Check out the [wiki][3] to see the outcome and explenations on that!
 
 	TODO!!
 
