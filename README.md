@@ -69,7 +69,7 @@ Dependencies are all of our software components required by this project in orde
 
 :fireworks: You are ready to run the algorithm by the following command. Check out the [wiki][3] to see the outcome and explanations on that!
 
-	TODO!!
+	python3 main.py
 
 ### Optional
 
