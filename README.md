@@ -67,6 +67,21 @@ Dependencies are all of our software components required by this project in orde
 
 	TODO!!
 
+#### Optional
+
+We prepared our future improvements in so called [Jupyter Notebooks](https://jupyter.org/index.html). 
+
+:ten: Install Jupyter Notebook
+
+	pip install notebook
+
+:eleven: Run Jupyter Notebook
+
+	jupyter notebook
+
+This will open your jupyter notebook workspace in the respective directory. Navigate to the wanted `.ipnb`
+	
+
 
 ## Troubleshooting
 
