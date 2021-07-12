@@ -49,9 +49,17 @@ Installing all necessary dependencies will guarantee a working enviroment throug
 
 	git clone https://github.com/mvrcx/SWP_Blitzer.git
 	
-:seven: Install remaining dependencies using [Poetry](https://python-poetry.org) which is used for Python packaging and dependency management. Change the current directory to repo root and then run
+:seven: Change the current directory to repo root
+
+	cd PATH/OF/THE/GITHUB/REPOSITORY/
+
+:eight: Install remaining dependencies using [Poetry](https://python-poetry.org) which is used for Python packaging and dependency management.
 
 	poetry install
+
+:nine: You are ready to run the algorithm by the following command
+
+	TODO!!
 
 
 ## Troubleshooting
