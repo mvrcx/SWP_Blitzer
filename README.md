@@ -71,9 +71,9 @@ Dependencies are all of our software components required by this project in orde
 
 	TODO!!
 
-#### Optional
+### Optional
 
-We prepared our future improvements in so called [Jupyter Notebooks](https://jupyter.org/index.html). 
+We prepared our future improvements in so called [Jupyter Notebooks](https://jupyter.org/index.html). If you want to test these, you will need to do the following steps.
 
 :one: Install Jupyter Notebook
 
