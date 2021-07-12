@@ -20,7 +20,13 @@ In order to run our code, please ensure that you have a [Python](https://www.pyt
 
 ### Dependencies
 
-Installing all necessary dependencies will guarantee a working enviroment throughout the setup. A p
+Dependencies are all of our software components required by this project in order for it to work as intended and avoid runtime errors. Below is a list of the necessary dependencies and its working version. You will be guided through the installation by installing the necessary dependencies in Step 8 below.
+
+> dlib==19.19.0   
+> im utils==0.5.3   
+> numpy==1.18.4   
+> opencv-contrib-python==4.2.0.34   
+> scipy==1.4.1
 
 
 ### Setup
