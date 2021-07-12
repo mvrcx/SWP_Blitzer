@@ -67,7 +67,7 @@ Dependencies are all of our software components required by this project in orde
 
 	poetry shell
 
-:fireworks: You are ready to run the algorithm by the following command. Check out the [wiki][3] to see the outcome and explenations on that!
+:fireworks: You are ready to run the algorithm by the following command. Check out the [wiki][3] to see the outcome and explanations on that!
 
 	TODO!!
 
@@ -75,7 +75,7 @@ Dependencies are all of our software components required by this project in orde
 
 We prepared our future improvements in so called [Jupyter Notebooks](https://jupyter.org/index.html). 
 
-:oneInstall Jupyter Notebook
+:one: Install Jupyter Notebook
 
 	pip install notebook
 
