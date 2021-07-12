@@ -18,30 +18,40 @@ To make sure everyone uses the same environment and make sure we don't run into 
 
 In order to run our code, please ensure that you have a [Python](https://www.python.org/downloads/) version greater or equal to `3.6.1`, a working installation of and [git][5] installed.
 
+### Dependencies
+
+Installing all necessary dependencies will guarantee a working enviroment throughout the setup. A p
+
 
 ### Setup
 
-:one: We start off by installing pip which is a package manager. Open your terminal and run the following command:
+:one: We start off by downloading pip which is a package manager. Open your terminal and run the following command:
 
   	curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+	
+:two: To install pip, run the downloaded python script the following way 
   
   	python3 get-pip.py
   
-:two: Install the dlib library (todo: explanation)
+:three: Install the dlib library (todo: explanation)
   
  	pip install dlib
   
-3️⃣ Install opencv (todo: explanation)
+:four: Install opencv (todo: explanation)
   
   	pip install opencv-python
   
-:four: Install the mathplotlib (todo: explanation)
+:five: Install the mathplotlib (todo: explanation)
   
 	pip install matplotlib
 
-:five: Clone this repository (or use SSH) and move it into the repo root.
+:six: Clone this repository (or use SSH) and move it into the repo root.
 
 	git clone https://github.com/mvrcx/SWP_Blitzer.git
+	
+:seven: Install remaining dependencies using [Poetry](https://python-poetry.org) which is used for Python packaging and dependency management. Change the current directory to repo root and then run
+
+	poetry install
 
 
 ## Troubleshooting
