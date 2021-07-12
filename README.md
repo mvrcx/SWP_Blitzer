@@ -7,7 +7,7 @@ This repository contains all *public* material needed to reproduce our task in t
 ## First things first
 1. The code section of this repository contains everything related to the programming assignments we will do throughout the course.
 1. All other information (documentation, data description, assignment instructions, constraints etc.) you find in the ❗[WIKI][3]❗.
-1. Any private data will not be published and is running on our own computers as soon as we retrieve the data. 
+1. Any private data will not be published and is running on our own computers. 
 1. You can clone the code repository in order to reproduce our solutions or to test/run this code.
 
 ## Getting started
