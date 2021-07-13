@@ -2,8 +2,8 @@
 name = "SWP_Blitzer"
 version = "0.1.0"
 description = "Coming"
-authors = ["Marc Oprisiu"]
-license = "MIT"
+authors = ["Ekaterina Melnikova, Lukas Kaibel, Marc Oprisiu"]
+license = "GPL"
 
 [tool.poetry.dependencies]
 python = "^2.7"
